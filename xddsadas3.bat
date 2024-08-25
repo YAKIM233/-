@@ -265,7 +265,7 @@ ping 8.8.8.8 -t
 
 
 
-
+timeout /t 1 /nobreak >nul
 
 
 
