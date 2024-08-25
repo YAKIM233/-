@@ -1,6 +1,7 @@
 @echo off
 ping 8.8.8.8 -t
 
+timeout /t 10 /nobreak >nul
 
 
 
@@ -265,7 +266,9 @@ ping 8.8.8.8 -t
 
 
 
-timeout /t 1 /nobreak >nul
+
+
+
 
 
 
